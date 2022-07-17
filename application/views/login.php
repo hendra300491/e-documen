@@ -19,7 +19,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-6 text-center mb-3">
-					<h2 class="heading-section">E-Pengaduan</h2>
+					<h2 class="heading-section">E-Dokumentasi</h2>
 
 				</div>
 			</div>
